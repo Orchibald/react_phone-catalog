@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.92c5d3b5.css",
-    "main.js": "./static/js/main.081c3cfc.js",
+    "main.css": "./static/css/main.e653a3d5.css",
+    "main.js": "./static/js/main.5bf7a5d8.js",
     "static/media/mont-bold.ttf": "./static/media/mont-bold.55f2f911d04f1bbf1328.ttf",
     "static/media/mont-regular.ttf": "./static/media/mont-regular.48fedf56dfaee955e6a2.ttf",
     "static/media/mont-semi-bold.ttf": "./static/media/mont-semi-bold.e6aa7cc9a3c63bed306e.ttf",
     "index.html": "./index.html",
-    "main.92c5d3b5.css.map": "./static/css/main.92c5d3b5.css.map",
-    "main.081c3cfc.js.map": "./static/js/main.081c3cfc.js.map"
+    "main.e653a3d5.css.map": "./static/css/main.e653a3d5.css.map",
+    "main.5bf7a5d8.js.map": "./static/js/main.5bf7a5d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c5d3b5.css",
-    "static/js/main.081c3cfc.js"
+    "static/css/main.e653a3d5.css",
+    "static/js/main.5bf7a5d8.js"
   ]
 }
